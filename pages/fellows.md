@@ -6,6 +6,7 @@ tags:
     - current
 id: fellows
 years:
+	- 2018
     - 2017
     - 2016
 ---
