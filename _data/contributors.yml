@@ -92,34 +92,34 @@ becerra:
 he:
   name: Harry He
   bio: "He 21’ is a sophomore majoring in History and Statistics. He is from Guangzhou, and he uses IP addresses around the globe."
-  image_path: harry.png
+  image_path: media/harry.png
   role: fellow
   year: 2018
 
 knox:
   name: Katie Knox
   bio: "Katie is a sophomore and a prospective computer science major from Michigan. Outside of academics, she spends a lot of time dancing. She likes learning from other people, making pictures about ideas, and finding good deals! She hopes to ~someday~ work in the intersection of technology, education and community building."
-  image_path: katie.jpg
+  image_path: media/katie.jpg
   role: fellow
   year: 2018
 
 kriney:
   name: Jon Kriney
   bio: "Jon Kriney ’20 is a junior studying Art History, Math, and Interpretation theory. His primary interests are architectural history, theory, and design, especially when studied through an interdisciplinary lens. He enjoys climbing trees, but certainly not Scott Arboretum trees. Absolutely not. He has a tremendous respect for those trees and the arboretum as a whole."
-  image_path: jon.jpeg
+  image_path: media/jon.jpeg
   role: fellow
   year: 2018
 
 lomeli:
   name: Ivan Lomeli
   bio: "Ivan Lomeli ’19 is an aspiring software engineer majoring in Computer Science. He was born in Mexico and raised in Santa Ana, California. He enjoys hiking, free driving, and spending time with friends. Ivan is interested in how digital technology will impact the landscape of intellectual property laws and the implications of global digitization."
-  image_path: ivan.JPG
+  image_path: media/ivan.JPG
   role: fellow
   year: 2018
 
 veron:
   name: Francisco Verón Ferreira
   bio: "Francisco Verón Ferreira '19 is a senior majoring in Engineering and Mathematics, with interests in computational engineering and applied math. An international student from Paraguay, he is interested in the intersection between STEM and the humanities and social sciences, which is why he decided to pursue engineering in a liberal arts setting. In his free time, he enjoys making photographs, reading novels, and exploring the Crum Woods."
-  image_path: francisco.jpg
+  image_path: media/francisco.jpg
   role: fellow
   year: 2018
