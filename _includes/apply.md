@@ -1,10 +1,10 @@
-<a  class="button button-red" href="https://goo.gl/forms/KC4bc7Hp3rCuk9Oe2" target="_blank">Apply for Fall '18</a>
+<a  class="button button-red" href="https://forms.gle/AhqTjUNN1ui3APno7" target="_blank">Apply for Fall '19</a>
 
 Interested in collaborative projects that span disciplinary boundaries, that bring networked technologies to bear on conventional scholarship, that demand a critical consideration of just what we mean by "the digital"?
 
 The Libraries are now accepting applications for digital scholarship opportunity for the fall semester. Accepted students will receive [level 3 student employment](http://www.swarthmore.edu/student-employment) for one semester to engage in theory and practice of digital scholarship and to collaborate on projects already in the works.
 
-Now in its third year, the LibLab Fellows can expect a combination of open lab hours and weekly meetings, through which Fellows will be exposed to:
+Now in its fourth year, the LibLab Fellows can expect a combination of open lab hours and weekly meetings, through which Fellows will be exposed to:
 
 - Web development and design, plus digital media, text analysis, and/or data visualization depending on time/interests
 - Current conversations around digital environments from a variety of perspectives
