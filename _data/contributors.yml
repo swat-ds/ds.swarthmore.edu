@@ -122,3 +122,38 @@ veron:
   image_path: media/francisco.jpg
   role: fellow
   year: 2018
+
+Adorkor:
+  name: Elvis Adorkor
+  bio: "Elvis Adorkor '22 is a sophomore and a prospective Computer Science and Mathematics double major. He is from Ghana, West Africa. He loves love everything at the intersection of Math and Computer Science and aspire to become a Software Engineer. Outside of his academics, he loves going to concerts, traveling, listening to music and hanging out with his friends."
+  image_path: media/Elvis.jpeg
+  role: fellow
+  year: 2019
+
+Koucky:
+  name: Matt Koucky
+  bio: "Matt Koucky '22 is a sophmore studying Computer Science, Linguistics, and Art History. They like reading and writing poetry and are learning how to make computer music."
+  image_path: media/Matt.jpg
+  role: fellow
+  year: 2019
+
+Lapides:
+  name: Rachel Lapides
+  bio: "Rachel Lapides '22 is a sophomore from New York City studying English and Psychology. She's interested in the future of literature in the digital age and she loves plants."
+  image_path: media/Rachel.jpg
+  role: fellow
+  year: 2019
+
+Selvaggio:
+  name: Michael Selvaggio
+  bio: "Michael Selvaggio '21 is a junior majoring in Linguistics and Computer Science. He's from New York, but not the city. When not being consumed by work, he enjoys making & playing games, theater, and self actualization."
+  image_path: media/Michael.JPG
+  role: fellow
+  year: 2019
+
+Smith:
+  name: Shayla Smith
+  bio: "Shayla Smith '20 is from South Florida and studies Environmental Studies and Peace & Conflict Studies. She's interested in ecofeminist theory, feminist/womanist fiction, and shelling. Shayla is a lover of cats, candles, and caffeine."
+  image_path: media/Shayla.jpg
+  role: fellow
+  year: 2019
