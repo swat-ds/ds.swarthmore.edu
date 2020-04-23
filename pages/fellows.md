@@ -19,7 +19,8 @@ years:
 
 {% endif %}
 
-{% unless page.tags contains "apply" %}
+{% unless page.tags contains "hide-fellows" %}
+<h2>Past Fellows</h2>
 <div class="fellows-gallery">
 
 {% for year in page.years %}
