@@ -3,6 +3,7 @@ layout: page
 title: <span>Lib</span><span>/</span><span>Lab</span><span> Fellows</span>
 permalink: /fellows/
 tags:
+    - apply
     - current
 id: fellows
 years:

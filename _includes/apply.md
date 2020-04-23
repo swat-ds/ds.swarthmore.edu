@@ -1,20 +1,23 @@
-<a  class="button button-red" href="https://forms.gle/AhqTjUNN1ui3APno7" target="_blank">Apply for Fall '19</a>
+<a  class="button button-red" href="https://forms.gle/BjjTWp6kAAeLVbxBA" target="_blank">Apply for Fall '20</a>
 
 Interested in collaborative projects that span disciplinary boundaries, that bring networked technologies to bear on conventional scholarship, that demand a critical consideration of just what we mean by "the digital"?
 
 The Libraries are now accepting applications for digital scholarship opportunity for the fall semester. Accepted students will receive [level 3 student employment](http://www.swarthmore.edu/student-employment) for one semester to engage in theory and practice of digital scholarship and to collaborate on projects already in the works.
 
-Now in its fourth year, the LibLab Fellows can expect a combination of open lab hours and weekly meetings, through which Fellows will be exposed to:
+### What do Fellows do?
+
+Now in its fifth year, the LibLab Fellows can expect a combination of open lab hours and weekly meetings, through which Fellows will be exposed to:
 
 - Web development and design, plus digital media, text analysis, and/or data visualization depending on time/interests
 - Current conversations around digital environments from a variety of perspectives
 - Experience with project management, design thinking and tools for collaboration
+- Self-directed research culminating in a digital project
+
+For an idea of some of what we cover, [visit last fall's syllabus available online](https://swat-ds.github.io/liblab/).
 
 ### How much of a commitment will it be?
 
-Fellows will be expected to contribute an average of 6 hours a week, including discussions and lab meetings. Students can expect to contribute to new project design and implementation, as well as less glamorous tasks (though no less important!) such as documentation and maintenance.
-
-Unless we decide otherwise as a group, we will generally try to convene weekly from __2-4pm on Fridays__.
+Fellows will be expected to contribute an average of 6 hours a week, including discussions and lab meetings. Students can expect to pursue individual projects using tools and concepts we cover. In the spring semester, Fellows have the option of continuing on and contributing to ongoing library-supported digital projects.
 
 ### Who should apply?
 
